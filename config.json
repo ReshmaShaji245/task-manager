@@ -1,0 +1,12 @@
+{
+    "port":1104,
+    "logfilepath":".\\logs\\taskmanager.log",
+    "postgresconfig":{
+        "host":"localhost",
+        "port":5432,
+        "database":"taskmanager",
+        "user":"reshma1",
+        "password":"password",
+        "connmaxopen":10
+    }
+}
